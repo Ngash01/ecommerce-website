@@ -1,7 +1,7 @@
-#Ecommerce Store
+<h1>Ecommerce Store</h1>
 This is an ecommerce store built with React, Material UI for icons, and CSS. The store allows users to add items to cart, remove items from cart, and calculate the total of the items in the cart. The project also demonstrates the use of Context API to manage the state of the cart.
 
-##Installation
+<h3>Installation</h3>
 To install and run the project, follow these steps:
 
 Clone the repository to your local machine using the following command:
@@ -18,7 +18,7 @@ Copy code
 npm start
 The application should now be running on http://localhost:3000.
 
-##Usage
+<h3>Usage</h3>
 To use the application, follow these steps:
 
 Browse the products on the homepage and click on the "Add to Cart" button to add items to your cart.
@@ -29,10 +29,10 @@ From the cart, you can increase or decrease the quantity of each item or remove 
 
 The total amount of the items in your cart is displayed at the bottom of the cart.
 
-##Credits
+<h3>Credits</h3>
 This project was built by [your name] as part of [a course / a personal project / a hackathon / etc.].
 
-##License
+<h3>License</h3>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
 
 
