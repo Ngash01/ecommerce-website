@@ -7,6 +7,7 @@ import { ShopContextProvider } from './context/shop-context';
 
 
 function App() {
+  // http://Ngash01.github.io/ecommerce-website
   return (
     <div className="App">
       <ShopContextProvider>
